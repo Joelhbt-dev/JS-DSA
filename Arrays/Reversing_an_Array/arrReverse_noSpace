@@ -5,7 +5,7 @@ let j = arr.length-1;
 
 let temp;
 
-while(i!=j){
+while(i<j){
 
     temp = arr[i];
     arr[i] = arr[j];
